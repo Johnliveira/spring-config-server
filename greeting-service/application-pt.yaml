@@ -4,7 +4,7 @@ spring:
 server:
   port: 8080
 greeting-service:
-  greeting: "Ola"
+  greeting: "Olá"
   default-value: "Mundo"
 management:
   endpoints:
